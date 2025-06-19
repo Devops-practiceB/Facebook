@@ -1,2 +1,4 @@
 #!/bin/bash
-this is new program to connect git repo
+#Ctl+s -->save.
+#this is new program to connect git repo
+echo "Hello World"
